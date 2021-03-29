@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Susan
 - 👀 I’m interested in web app development, data modeling
-- 🌱 I’m currently learning CreatJS, NodeJS
+- 🌱 I’m currently learning Creat
 - 💞️ I’m looking to collaborate on UTCAA web app developement project
 
 <!---
